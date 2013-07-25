@@ -17,5 +17,4 @@ doc/
 *.swp
 *~
 .project
-.ds_store
-idea
+.idea
